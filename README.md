@@ -1,5 +1,3 @@
-# self-published-videos
+# Rough Cut Code Videos
 
-![2021-01-01-rails-web-console.mkv](vid1)
-
-![2021-01-13-setting-up-a-body-class-to-style-views-in-rails.mp4](vid2)
+Videos for [roughcutcode.io](https://roughcutcode.io)
